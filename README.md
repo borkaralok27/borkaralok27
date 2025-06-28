@@ -1,25 +1,10 @@
-👋 Hi, I’m Alok!
-👨‍💻 I’m into Full Stack Development
-🎓 I’ve completed my MCA from MIT ADT University, Pune in 2025
-🎮 I love playing video games and getting lost in good books
-🛠️ Always up for a challenge—especially ones that involve debugging and building cool stuff
-🤝 Looking to collaborate on anything exciting, innovative, or just plain nerdy
-😄 Pronouns: he/him
-✨ Fun fact: The first computer “bug” was actually a moth stuck in the hardware!
+# 👋 Hi, I’m Alok!
 
+👨‍💻 I’m passionate about Full Stack Development  
+🎓 I completed my MCA from MIT ADT University, Pune in 2025  
+🎮 Gaming and reading books are my escape zones  
+🛠️ I love solving bugs more than writing code (okay, maybe both 😄)  
+💡 Always curious to explore new tech and collaborate on interesting projects  
+📫 Let’s connect and build something amazing!
 
-
-<!--
-**borkaralok27/borkaralok27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Fun Fact: The first ever computer "bug" was a real bug!
