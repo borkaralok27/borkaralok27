@@ -6,4 +6,4 @@
 🛠️ I love solving bugs more than writing code (okay, maybe both 😄)  
 💡 Always curious to explore new tech and collaborate on interesting projects  
 📫 Let’s connect and build something amazing!
-⚡  Fun Fact: The first ever computer "bug" was a real bug!
+⚡ Fun Fact: The first ever computer "bug" was a real bug!
