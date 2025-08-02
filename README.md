@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alok Borkar</h1>
+<h1 align="center">Hi 👋, I'm Alok Borkar🧑🏻‍💻</h1>
 <h3 align="center">Full Stack Developer | Passionate about building scalable web applications</h3>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/123456789?v=4" alt="Alok Borkar Avatar" width="150" style="border-radius: 50%"/>
-</p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -47,17 +42,6 @@
 - 💡 Learning Next.js and building production-ready apps
 - 🧠 Sharpening problem-solving with Java + DSA
 - 📦 Exploring DevOps basics (CI/CD, Docker)
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/borkaralok1)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&style=flat-square)](https://instagram.com/borkaralok1)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&style=flat-square)](mailto:borkaralok1@gmail.com)  
-
-
----
 
 > 🚀 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
